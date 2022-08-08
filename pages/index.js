@@ -9,7 +9,7 @@ export default function Home({allPostsData}) {
     return (
         <Layout home>
             <Head>
-                <title>{siteTitle}</title>
+                <title>{siteTitle} - PREVIEWING CHANGES</title>
             </Head>
             <section className={utilStyles.headingMd}>
                 <p>[Your Self Introduction]</p>
